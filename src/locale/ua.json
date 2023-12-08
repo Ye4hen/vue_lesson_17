@@ -1,0 +1,49 @@
+{
+	"productInputs": {
+		"imageInput": "Зображення Товару(URL)",
+		"nameEnInput": "Назва Товару Англійською",
+		"nameUaInput": "Назва Товару Українською",
+		"priceInput": "Ціна Товару В UAH",
+		"brandInput": "Бренд Товару",
+		"sellerInput": "Постачальник Товару"
+	},
+	"buttonActions": {
+		"buttonEdit": "Редагувати",
+		"buttonDelete": "Видалити",
+		"buttonAdd": "Добавити",
+		"buttonSave": "Зберегти",
+		"buttonCancel": "Відмінити"
+	},
+	"greeting": {
+		"greetingTitle": "Ласкаво просимо до нашого інтернет-магазина",
+		"greetingSubTitle": "Надіємось, що ви, щось купите)",
+		"loginGreeting": "Увійдіть для користування сервісами"
+	},
+	"menu": {
+		"home": "Головна Сторінка",
+		"products": "Товари",
+		"cart": "Кошик"
+	},
+	"titles": {
+		"mainTitle": "Ноутбуки"
+	},
+	"filters": {
+		"seller": "продавець",
+		"brand": "бренд",
+		"searchPlaceholder": "Пошук",
+		"dropFilters": "Скинути фільтри"
+	},
+	"login": {
+		"logIn": "Вхід",
+		"logOut": "Вихід"
+	},
+	"languages": {
+		"currentLanguage": "поточна мова"
+	},
+	"errors": {
+		"noProductsError": "Немає таких товарів"
+	},
+	"cart": {
+		"cartTitle": "Це Ваш кошик"
+	}
+}

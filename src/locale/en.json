@@ -1,0 +1,49 @@
+{
+	"productInputs": {
+		"imageInput": "Product Image (URL)",
+		"nameEnInput": "Product Name In English",
+		"nameUaInput": "Product Name In Ukrainian",
+		"priceInput": "Product Price In UAH",
+		"brandInput": "Product Brand",
+		"sellerInput": "Product Seller"
+	},
+	"buttonActions": {
+		"buttonEdit": "Edit",
+		"buttonDelete": "Delete",
+		"buttonAdd": "Add",
+		"buttonSave": "Save",
+		"buttonCancel": "Cancel"
+	},
+	"greeting": {
+		"greetingTitle": "Welcome to our e-commerce website!",
+		"greetingSubTitle": "Hope you will buy something)",
+		"loginGreeting": "Log In for using our services"
+	},
+	"menu": {
+		"home": "Home Page",
+		"products": "Products Page",
+		"cart": "Cart Page"
+	},
+	"titles": {
+		"mainTitle": "Laptops"
+	},
+	"filters": {
+		"seller": "seller",
+		"brand": "brand",
+		"searchPlaceholder": "Search",
+		"dropFilters": "Drop Filters"
+	},
+	"login": {
+		"logIn": "Log In",
+		"logOut": "Log Out"
+	},
+	"languages": {
+		"currentLanguage": "current language"
+	},
+	"errors": {
+		"noProductsError": "There are no such products"
+	},
+	"cart": {
+		"cartTitle": "This is your cart"
+	}
+}
